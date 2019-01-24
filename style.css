@@ -1,0 +1,44 @@
+    a.bouton1 {
+        padding: 20px 40px; 
+        background: grey; 
+        color: white;
+        font-weight: bold;
+        font-size: 50px;
+        text-decoration:none;  
+        }
+        a.bouton1:hover {
+        background: blue; 
+        }
+        a.bouton2 {
+            padding: 20px 40px; 
+            background: grey; 
+            color: white;
+            font-weight: bold;
+            font-size: 50px;
+            text-decoration:none;  
+            }
+            a.bouton2:hover {
+            background: blue; 
+            }
+            a.bouton3 {
+                padding: 20px 40px; 
+                background: grey; 
+                color: white;
+                font-weight: bold;
+                font-size: 50px;
+                text-decoration:none;  
+                }
+                a.bouton3:hover {
+                background: blue; 
+                }
+                a.bouton4 {
+                    padding: 20px 40px; 
+                    background: grey; 
+                    color: white;
+                    font-weight: bold;
+                    font-size: 50px; 
+                    text-decoration:none; 
+                    }
+                    a.bouton4:hover {
+                    background: blue; 
+                    }
